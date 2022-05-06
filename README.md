@@ -19,7 +19,7 @@ O Back-end fornece a API que salva os feedbacks no banco de dados, o Front-end e
 
 📱 Mobile: React Native com Expo
 
-Todos desenvolvidos utilizando Typescrip.
+Todos desenvolvidos utilizando Typescript.
 
 ### Para rodar a aplicação
 
