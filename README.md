@@ -40,3 +40,26 @@ Execute `npm run dev` na pasta backend (Porta 3333), `npm start` nas pastas fron
 
 ![ChoiseFeedback](https://lh3.googleusercontent.com/pw/AM-JKLXoZaSjQt6rKiOAUb--U4sGSqkyD1yuX6NN1CRj3ooT4vlb-dmtwJfm0vDGEYCvbSSAoNBp5HsF6ovXIHfGleXvTj3n2jmi7dtHg6viATCp76nURKTZcXCVamskGmDI_g7BNktSP87jX2Kobkw1yF8c=w1869-h879-no?authuser=0)
 
+**Tela Escrever Feedback**
+
+![WriteFeedback](https://lh3.googleusercontent.com/pw/AM-JKLWN7eNGsvRnX00nxjfqEklAngml_qW9lk-bRaNOWFRWZaGUGvhytYeeire8tYHcMBmkGq_AcI0shORaDmntlOtfDvSWoXiY2KVY3wfRtqbwu4ROQa6eR573_qFoc_dgk46LmatJkpXr1XaO1SkkXHNs=w1871-h892-no?authuser=0)
+
+**Tela Confirmação de Envio do Feedback**
+
+![SuccessFeedback](https://lh3.googleusercontent.com/pw/AM-JKLWXmIEpvXmSDXeyvfKhAq8ZuJ90EoABu1VtqrN2aAmXfmbE7tuKPmZYadIxlZX5G4-vEQIEgsHBvDiLhHOiPETECNnRjyhwEdjBL8ywJRqSO9-F6ONh7rDsoWpb_8qBx-Hx1RxXvilTRictWGjZWEvv=w1857-h892-no?authuser=0)
+
+**Tela Inicial No Mobile**
+
+![HomeMobile](https://lh3.googleusercontent.com/pw/AM-JKLVQwtYHzQEx9bBucAUYp9LzcyjHQ8_5SzH-_AY6IndkMubCmaHACfjYDc0Xfa9LzpL62OB5aU7XVx_wLICNECPHX5ntVklUBF0y4GAqcO3935BLhbUuDf6sT0BpntaPFldJ1AjcszCyNhRVoAapr5eF=w479-h835-no?authuser=0)
+
+**Tela Escolher Tipo Feedback No Mobile**
+
+![ChoiseFeedbackMobile](https://lh3.googleusercontent.com/pw/AM-JKLXQj8T1xbFTI5-Sb-R8svZZnj7BpAH_-D9z21pbU6E3Y22RaBWEVdBNXc_WRNaeI0ShFUsrQwDGF3aAAGCASweOaZuBHPYwFOmzGnBZom-v4lRuwHyQulehPdqx39-Ek67jqa5q_mXFk-TansXZ-uNe=w475-h835-no?authuser=0)
+
+**Tela Escrever Feedback No Mobile**
+
+![WriteFeedbackMobile](https://lh3.googleusercontent.com/pw/AM-JKLU7ss5ogmCx4AgHqGg4bULjVvOEKqzo2i7yjQCUnLWzo2BoisXMHwGfE1sVC1p16FCSuWW_d_UYF3N6j5maxr6bgdCU5nc8aY4WzFLXhn3sEP9-pib3_LNEh5QU8VHQaL6dqlvdnxX_K-q6X63ccjtE=w478-h839-no?authuser=0)
+
+**Tela Confirmação de Envio do Feedback No Mobile**
+
+![SuccessFeedbackMobile](https://lh3.googleusercontent.com/pw/AM-JKLUTp1VNqzYfDdy5EVMxs7IzdM8Rx8ta8RW0M4uDBILCpKQMl6pXTABHka2VWgpCIAIVOk328ZQ4Sp7FBGw03H0uV9I5Woro_SmXpHyMpdkhNilSgEe8BwUK4hY_dpPkCW5M_s8AiuV7fObC_4XAhesQ=w473-h846-no?authuser=0)
